@@ -1,0 +1,5 @@
+#notebook
+.ipynb_checkpoints/
+
+#data
+random.bin
