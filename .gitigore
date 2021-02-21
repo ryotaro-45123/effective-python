@@ -1,5 +1,5 @@
-#notebook
+# notebook
 .ipynb_checkpoints/
 
-#data
+# data
 random.bin
