@@ -1,0 +1,11 @@
+version: '3'
+services:
+  python387:
+    tty: true
+    build:
+      context: .
+      dockerfile: dockerfile
+    volumes:
+      - .:/work
+    ports:
+      - 7777:8888
